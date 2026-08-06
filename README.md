@@ -7,7 +7,7 @@ using the UCI Heart Disease dataset (920 patients, 16 clinical features).
 
 ## Background
 
-As a medical doctor transitioning into health data/IT, I built this project 
+As a medical doctor with interest health data/IT, I built this project 
 to combine clinical knowledge with hands-on data analysis, machine learning, 
 and web app development — going from raw CSV to a deployed, interactive tool.
 

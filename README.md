@@ -8,7 +8,7 @@ kaggle link- https://www.kaggle.com/code/harunakarimu/notebookbb8f2ec435
 
 ## Background
 
-As a medical doctor with interest health data/IT, I built this project 
+As a medic with interest health data/IT, I built this project 
 to combine clinical knowledge with hands-on data analysis, machine learning, 
 and web app development — going from raw CSV to a deployed, interactive tool.
 

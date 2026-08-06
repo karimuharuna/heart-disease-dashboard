@@ -4,6 +4,7 @@ An interactive dashboard and prediction tool exploring heart disease risk
 using the UCI Heart Disease dataset (920 patients, 16 clinical features).
 
 🔗 **Live app:** [https://karimuharuna-heart-disease-dashboard-dashboard-qqvs5h.streamlit.app/]
+kaggle link- https://www.kaggle.com/code/harunakarimu/notebookbb8f2ec435
 
 ## Background
 
